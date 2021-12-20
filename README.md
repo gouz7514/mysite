@@ -1,2 +1,7 @@
 # mysite
-django-practice
+
+[Django 문서](https://docs.djangoproject.com/ko/3.2/)<br />
+
+### 블로그 링크
+- [[Django] 1. 장고 튜토리얼 part 1](https://velog.io/@gouz7514/Django-1.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part-1)<br />
+- [[Django] 2. 장고 튜토리얼 part.2](https://velog.io/@gouz7514/Django-2.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part.2)
