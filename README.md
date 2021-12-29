@@ -9,3 +9,4 @@
 - [[Django] 4. 장고 튜토리얼 part.4](https://velog.io/@gouz7514/Django-4.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part.4)
 - [[Django] 5. 장고 튜토리얼 part.5](https://velog.io/@gouz7514/Django-5.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part.5)
 - [[Django] 6. 장고 튜토리얼 part.6](https://velog.io/@gouz7514/Django-6.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part.6)
+- [[Django] 7. 장고 튜토리얼 part.7](https://velog.io/@gouz7514/Django-7.-%EC%9E%A5%EA%B3%A0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-part.7)
